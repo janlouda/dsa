@@ -17,7 +17,7 @@ Pokud pominu pravidla ke hře, tak vše je tištěné na 3D tiskárně MK3S od P
 
 Žetony jsou tištěny ze třech barev (6 vrstev barvy, 4 vrstvy bílé, 6 vrstev černé) - tištěno čísly nahoru.
 
-Název stl souborů napoví kolikrát je třeba soubr vytisknout.
+Název stl souborů napoví kolikrát je třeba soubor vytisknout.
 
 Celkem jde o následující počet žetonů:
 - 16x kolečko
