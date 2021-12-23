@@ -1,2 +1,2 @@
-# dsa
-Deep Sea Adventure board game
+# Deep Sea Adventure
+Deep Sea Adventure je skvěloudeskovkou, původem z Japonska.
